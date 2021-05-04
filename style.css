@@ -2,30 +2,34 @@ body{
   margin-top: 20px;
   background-image: url(https://wallpapercave.com/wp/wp5244984.jpg);
   padding: 200px 100px;
- 
+  background-repeat: no-repeat;
+  background-position: ;
+  background-attachment: scroll;
+}
+
+bg-image{
+  height: 100px;
+  width: 50px;
+  opacity: 
 }
 
 header{
-  height: 200px;
+  height: 300px;
+  width: 300px;
   background: none;
   text-align: center;
 }
-img{
-  height: 100px;
-  margin-top: -100px;
-  text-align: center;
+.img{
+  margin-top: 10px;
 }
 
 h1{
-  height: 50px;
-  margin-top: -80px;
-  text-align: center;
+  height: 100px;
+  margin-top: 80px;
   color: #77557a;
 }
 
 main{
-  margin-left: 370px;
-  margin-top: 10px;
   height: 800px;
   width: 1000px;
   outline: black 100px;
