@@ -1,0 +1,51 @@
+body{
+  margin-top: 20px;
+  background-image: url(https://wallpapercave.com/wp/wp5244984.jpg);
+  padding: 200px 100px;
+  background-repeat: no-repeat;
+  background-position: ;
+  background-attachment: scroll;
+}
+
+.navbar {
+  color:white;
+  text-align:center;
+  font-size: 40px;
+  float: center;
+  display: block;
+  padding: 10px;
+}
+
+.navbar a{
+  font-size:30px;
+  color:#77557a;
+ 
+}
+
+.header{
+  height: 300px;
+  width: 300px;
+  background: red;
+  text-align: center;
+}
+
+.logo{
+  text-align: center;
+}
+
+.embed{
+  text-align:center;
+}
+.banner{
+  background-color:;
+  font-size:80px;
+  text-align:center;
+  color: #77557a;
+  margin-bottom:40px;
+  margin-top:40px;
+}
+
+.main{
+  align: center;
+ 
+}
