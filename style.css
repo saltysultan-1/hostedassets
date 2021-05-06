@@ -7,31 +7,45 @@ body{
   background-attachment: scroll;
 }
 
-bg-image{
-  height: 100px;
-  width: 50px;
-  opacity: 
+.navbar {
+  color:white;
+  text-align:center;
+  font-size: 40px;
+  float: center;
+  display: block;
+  padding: 10px;
 }
 
-header{
+.navbar a{
+  font-size:30px;
+  color:#77557a;
+ 
+}
+
+.header{
   height: 300px;
   width: 300px;
-  background: none;
+  background: red;
   text-align: center;
 }
-.img{
-  margin-top: 10px;
+
+.logo{
+  text-align: center;
 }
 
-h1{
-  height: 100px;
-  margin-top: 80px;
+.embed{
+  text-align:center;
+}
+.banner{
+  background-color:;
+  font-size:80px;
+  text-align:center;
   color: #77557a;
+  margin-bottom:40px;
+  margin-top:40px;
 }
 
-main{
-  height: 800px;
-  width: 1000px;
-  outline: black 100px;
+.main{
+  align: center;
  
 }
