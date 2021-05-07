@@ -1,24 +1,29 @@
 body{
-  margin-top: 20px;
-  background-image: url(https://wallpapercave.com/wp/wp5244984.jpg);
+  margin-top: 0px;
+  background-color:#223840;
   padding: 200px 100px;
   background-repeat: no-repeat;
   background-position: ;
   background-attachment: scroll;
 }
+.logo{
+  text-align: center;
+  margin-top: -300px;
+}
 
 .navbar {
-  color:white;
+  color:#77557a;
   text-align:center;
   font-size: 40px;
   float: center;
   display: block;
   padding: 10px;
+  margin-top: 10px;
 }
 
 .navbar a{
-  font-size:30px;
-  color:#77557a;
+  font-size:px;
+  color: #77557a;
  
 }
 
@@ -30,11 +35,15 @@ body{
 }
 
 .logo{
-  text-align: center;
+  text-align: ceny;
+  margin-bottom: 100px;
+  width: 10px;
+  
 }
 
 .embed{
   text-align:center;
+  display:inline
 }
 .banner{
   background-color:;
@@ -42,10 +51,22 @@ body{
   text-align:center;
   color: #77557a;
   margin-bottom:40px;
-  margin-top:40px;
+  margin-top: 50px;
 }
 
 .main{
   align: center;
  
+}
+
+.desc{
+  color:white;
+  text-align: center;
+  color: #77557a;
+}
+
+.footer{
+  text-align: center;
+  color: #77557a;
+  margin-top: 300px;
 }
